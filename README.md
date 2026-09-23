@@ -34,24 +34,6 @@ The dataset used for training contains historical stock information including:
 - Close
 - Volume
 
-## Project Structure
-Stock-Price-Trend-Predictor/
-├── manage.py
-├── model.py
-├── s.csv
-│
-├── stockapp/
-│   ├── views.py
-│   ├── models.py
-│   ├── urls.py
-│   └── stock_model.pkl
-│
-├── stockproject/
-│   ├── settings.py
-│   └── urls.py
-│
-└── templates/
-    └── index.html
 
 How to Run the Project
 
