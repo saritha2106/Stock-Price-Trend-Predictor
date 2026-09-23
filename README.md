@@ -59,7 +59,7 @@ python manage.py runserver
 Open the local URL shown in the terminal, usually:
 http://127.0.0.1:8000/
 
-Features
+**Features**
 Django-based web interface
 Machine learning-based stock trend prediction
 Historical stock data processing
