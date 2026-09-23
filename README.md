@@ -77,4 +77,4 @@ Deploy the application online
 
 
 Disclaimer
-This project is developed for educational and demonstration purposes. Stock market predictions are not guaranteed and should not be considered financial advice.
+This project is developed for educational and demonstration purposes. Stock market predictions are not guaranteed and should  be considered  with financial advice.
