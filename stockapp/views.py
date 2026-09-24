@@ -38,12 +38,12 @@ def predict_trend(request):
 
                     accuracy = f"{random.uniform(91.0, 97.0):.2f}%"
 
-                    if result[0] == 1:
-                        prediction = "Rise"
-                        explanation = f"Close price ({close_price}) is greater than Open price ({open_price})."
-                    else:
-                        prediction = "Fall"
-                        explanation = f"Close price ({close_price}) is less than Open price ({open_price})."
+                   if result[0] == 1:
+    prediction = "Rise"
+else:
+    prediction = "Fall"
+
+explanation = "Prediction is based on the trained machine learning model using the provided market data."
 
         except ValueError:
             message = "Please enter valid numeric values."
