@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-no(-w73q!#u5)1mc)=)1l2fhl#h4b#p#5%8ulu4l)qkhyk0v-)
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["stock-price-trend-predictor.onrender.com"]
 
 
 # Application definition
